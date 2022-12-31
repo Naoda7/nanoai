@@ -49,7 +49,7 @@ figure{
 
 #chat_container {
   flex: 1;
-  margin-top: 70px;
+  margin-top: 0px;
   width: 90%;
   height: 100%;
   overflow-y: scroll;
